@@ -1,4 +1,4 @@
-const DEEPGRAM_API_KEY = "INSERT_YOUR_DEEPGRAM_API_KEY"; // Use capitalized variable
+const DEEPGRAM_API_KEY = "d388ba7450229707b7880e94486784f7662cf76e"; // Use capitalized variable
 
 let mediaRecorder;
 let socket;
